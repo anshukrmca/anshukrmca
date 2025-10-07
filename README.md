@@ -27,6 +27,36 @@
   <a href="https://github.com/anshukrmca" target="_blank">GitHub</a>
 </p>
 
+## 💼 My Projects
+
+### 1️⃣ anshu-reactui (NPM Package)
+**Description:** Professional React UI library with reusable components for modern web apps.  
+**Tech Stack:** React, TypeScript, TailwindCSS  
+**NPM:** [anshu-reactui](https://www.npmjs.com/package/anshu-reactui)  
+**GitHub Repo:** [anshukrmca/anshu-reactui](https://github.com/anshukrmca/anshu-reactui)  
+**Installation:**
+```bash
+npm install anshu-reactui
+```
+
+### 2️⃣ E-Commerce Platform
+**Description:** Full MERN stack e-commerce application with user authentication, product catalog, cart, and Stripe payment integration.  
+**Tech Stack:** MongoDB, Express, React, Node.js, Stripe API  
+**Live Demo:** [e-comerse.onrender.com](https://e-comerse.onrender.com)  
+**GitHub Repo:** [anshukrmca/e-commerce](https://github.com/anshukrmca/e-commerce)
+
+### 3️⃣ Hospital HRMS / New BK Hospital
+**Description:** Hospital management system including employee management, payroll, attendance, and patient management.  
+**Tech Stack:** MERN Stack (MongoDB, Express, React, Node.js)  
+**Live Demo:** [newbkhospital.netlify.app](https://newbkhospital.netlify.app)  
+**GitHub Repo:** [anshukrmca/hospital-hrms](https://github.com/anshukrmca/hospital-hrms)
+
+### 4️⃣ Personal Portfolio
+**Description:** Portfolio website showcasing projects, skills, and achievements.  
+**Tech Stack:** React, TailwindCSS  
+**Live Demo:** [anshuportfolioo.netlify.app](https://anshuportfolioo.netlify.app)  
+**GitHub Repo:** [anshukrmca/portfolio](https://github.com/anshukrmca/portfolio)
+
 ## Languages and Tools
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
