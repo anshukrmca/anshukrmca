@@ -43,19 +43,24 @@ npm install anshu-reactui
 **Description:** Full MERN stack e-commerce application with user authentication, product catalog, cart, and Stripe payment integration.  
 **Tech Stack:** MongoDB, Express, React, Node.js, Stripe API  
 **Live Demo:** [e-comerse.onrender.com](https://e-comerse.onrender.com)  
-**GitHub Repo:** [anshukrmca/e-commerce](https://github.com/anshukrmca/e-commerce)
+**GitHub Repo:** [anshukrmca/e-commerce](https://github.com/anshukrmca/E-Comerse)
 
-### 3️⃣ Hospital HRMS / New BK Hospital
+### 3️⃣ Hospital HRMS / New BK Hospital (ASP Project)
+**Description:** Hospital management system including employee management, payroll, attendance, and patient management.  
+**Tech Stack:** ASP.NET, SQL Server, HTML, CSS, JavaScript  
+**GitHub Repo:** [anshukrmca/BkHospital](https://github.com/anshukrmca/BkHospital)
+
+### 4️⃣ Hospital HRMS / New BK Hospital (MERN Stack)
 **Description:** Hospital management system including employee management, payroll, attendance, and patient management.  
 **Tech Stack:** MERN Stack (MongoDB, Express, React, Node.js)  
 **Live Demo:** [newbkhospital.netlify.app](https://newbkhospital.netlify.app)  
-**GitHub Repo:** [anshukrmca/hospital-hrms](https://github.com/anshukrmca/hospital-hrms)
+**GitHub Repo:** [anshukrmca/hospital-hrms](https://github.com/anshukrmca/HospitalBK)
 
-### 4️⃣ Personal Portfolio
+### 5️⃣ Personal Portfolio
 **Description:** Portfolio website showcasing projects, skills, and achievements.  
 **Tech Stack:** React, TailwindCSS  
 **Live Demo:** [anshuportfolioo.netlify.app](https://anshuportfolioo.netlify.app)  
-**GitHub Repo:** [anshukrmca/portfolio](https://github.com/anshukrmca/portfolio)
+**GitHub Repo:** [anshukrmca/portfolio](https://github.com/anshukrmca/anshu)
 
 ## Languages and Tools
 <p align="left">
